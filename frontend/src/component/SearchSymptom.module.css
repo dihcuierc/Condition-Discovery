@@ -1,0 +1,26 @@
+.selector {
+  margin-right: 10px;
+}
+
+.title {
+  margin-bottom: 15px;
+}
+
+.options {
+  margin-top: 10px;
+}
+
+.selected {
+  margin-bottom: 10px;
+  list-style-type: disc;
+  margin-left: 20px;
+}
+
+.selected h3 {
+  margin: 0;
+}
+
+.none {
+  color: red;
+  margin-top: 15px;
+}

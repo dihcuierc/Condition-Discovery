@@ -1,0 +1,30 @@
+.container {
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f7f7f7;
+  margin: 20px auto;
+  max-width: 600px;
+}
+
+.title {
+  margin-bottom: 15px;
+}
+
+.list {
+  list-style-type: disc;
+  margin-left: 20px;
+}
+
+.item {
+  margin-bottom: 10px;
+}
+
+.item h3 {
+  margin: 0;
+}
+
+.fail {
+  color: red;
+  margin-top: 15px;
+}
