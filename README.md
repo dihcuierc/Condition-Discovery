@@ -49,4 +49,4 @@ npm start
 
 - Frontend webpage was created using Reactjs `npx create-react-app`.
 - Backend was created using Nodejs and Expressjs.
-- As this project was done as an internship application assignment, only the basic functionalities are implemented. An improved version can be found in my other repository: https://github.com/dihcuierc/Condition-Discovery
+- As this project was done as an internship application assignment, only the basic functionalities are implemented. An improved version can be found in my other branch.
